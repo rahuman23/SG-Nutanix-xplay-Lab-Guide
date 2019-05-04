@@ -1,21 +1,5 @@
-.. title:: Tech Summit 2019
+.. title:: Nutanix Singapore Bootcamp lab guide
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Event Info
-   :name: _info
-   :hidden:
-
-   info/clusteraccess
-   info/clusterinfo
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Core Labs
-   :name: _core_labs
-   :hidden:
-
-   nutanix101/nutanix101
 
 .. toctree::
    :maxdepth: 2
@@ -24,11 +8,7 @@
    :hidden:
 
    calm_linux/calm_linux
-   era/era
-   files/files
-   flow/flow
-   xplay/xplay
-   dr_runbooks/dr_runbooks
+
 
 
 .. toctree::
@@ -55,22 +35,30 @@
 .. _welcome:
 
 --------------------------
-Nutanix Partner Tech Summit - Malaysia
+Nutanix Singapore Bootcamp lab guide
 --------------------------
 
-Welcome to Nutanix Partner Tech Summit 2019!
+Welcome to Nutanix Singapore Bootcamp basic 101
 
-Labs are designed to be completed by each individual, not in groups. Each Nutanix partner registered for the **Hands on Learning** track must complete a **minimum** of 3 labs.
+Labs are designed to be completed by each individual, not in groups.
 
-Attendees with the most number of labs will be awarded.
-
-Please reach out to any Nutanix employee if you face any technical issue.
-
+Please reach out to any Nutanix trainer if you face any technical issue.
 
 .. raw:: html
 
   <strong><font color="red">REVIEW THE FOLLOWING SECTIONS BEFORE BEGINNING ANY LABS:</font></strong>
 
-- :ref:`clusteraccess` - *VPN configuration for accessing the Nutanix Hosted POC network*
-- :ref:`clusterinfo` - *Your individual cluster assignment and details on how your cluster was staged*
-- :ref:`validation` - *How to get assistance with a lab*
+
+Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
+
+SSID: SGP-NTNX- Guest
+
+Password: TBA
+
+Prism Central IP Address: 10.129.34.5
+
+Prism Element IP address: 10.129.34.10
+
+Prism Username: Admin
+
+Password: Nut@n!xS5
