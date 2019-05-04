@@ -17,6 +17,8 @@
    :name: _advanced_labs
    :hidden:
 
+   calm_day2/calm_day2
+   calm_win/calm_win
    apis/apis
 
 .. toctree::
