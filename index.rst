@@ -55,7 +55,7 @@ Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
 
 SSID: SGP-NTNX- Guest
 
-Password: TBA
+Password: Ntn@!G$ue
 
 Prism Central IP Address: 10.129.34.5
 
