@@ -243,7 +243,7 @@ Creating the Database Service
          This will leverage Cloud-Init to populate the SSH public key variable as an authorized key, meaning the corresponding private key can be used to authenticate to the host.
 
    - Select :fa:`plus-circle` under **Network Adapters (NICs)**
-   - **NIC 1** - Primary
+   - **NIC 1** - User VLAN
    - **Credential** - CENTOS
 
 #. Click **Save**.
