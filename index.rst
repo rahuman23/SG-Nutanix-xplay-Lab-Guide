@@ -7,19 +7,8 @@
    :name: _essentials_labs
    :hidden:
 
-   calm_linux/calm_linux
+   xplay/xplay
 
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Advanced Labs (optional)
-   :name: _advanced_labs
-   :hidden:
-
-   calm_day2/calm_day2
-   calm_win/calm_win
-   apis/apis
 
 .. toctree::
    :maxdepth: 2
@@ -40,7 +29,7 @@
 Nutanix Singapore Bootcamp lab guide
 --------------------------
 
-Welcome to Nutanix Singapore Bootcamp basic 101
+Welcome to Nutanix Singapore Bootcamp for Prism Pro (X-Play)
 
 Labs are designed to be completed by each individual, not in groups.
 
